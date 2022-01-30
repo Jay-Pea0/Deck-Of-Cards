@@ -1,4 +1,4 @@
-# OOPAssessment2
+# Deck of Cards
 
 Code to create and shuffle a deck of cards, then allow the user to draw one, show the deck, or reshuffle.
 
